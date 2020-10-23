@@ -1,6 +1,6 @@
-# 🎥 Apache Beam Explained in 13 Minutes
+# 🎥 Apache Beam Explained in 12 Minutes
 
-Source code for the YouTube video, Apache Beam explained in 13 minutes. Watch the video [here]()!
+Source code for the YouTube video, Apache Beam explained in 12 minutes. Watch the video [here]()!
 
 ## Install dependencies
 
